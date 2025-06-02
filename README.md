@@ -1,5 +1,11 @@
 # Projeto Final - S05-A
 
+Nome: Pedro Augusto Barbosa Aparecido
+Matrícula: 170
+Curso: Engenharia de Software
+
+## 📝 Sobre o Projeto
+
 Este projeto foi desenvolvido como parte da disciplina de Engenharia de Software, com o objetivo de aplicar os conhecimentos adquiridos ao longo do curso na construção de uma aplicação web utilizando tecnologias modernas.
 
 ## 📚 Descrição
