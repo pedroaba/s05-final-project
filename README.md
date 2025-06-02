@@ -1,8 +1,8 @@
 # Projeto Final - S05-A
 
-Nome: Pedro Augusto Barbosa Aparecido
-Matrícula: 170
-Curso: Engenharia de Software
+Nome: Pedro Augusto Barbosa Aparecido <br />
+Matrícula: 170 <br />
+Curso: Engenharia de Software <br />
 
 ## 📝 Sobre o Projeto
 
